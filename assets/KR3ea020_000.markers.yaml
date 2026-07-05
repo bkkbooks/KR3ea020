@@ -66,8 +66,6 @@ markers:
   - {type: 'tls:seg', offset: 158, content: '', id: KR3ea020_jc_000-d2.p2s31}
   - {type: punctuation, offset: 166, content: ，, id: KR3ea020_jc_000-bkkpn31}
   - {type: 'tls:seg', offset: 166, content: '', id: KR3ea020_jc_000-d2.p2s32}
-  - {type: substitution, offset: 166, original: 閱, replacement: 閲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4561}}
-  - {type: substitution, offset: 170, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 172, content: ，, id: KR3ea020_jc_000-bkkpn32}
   - {type: 'tls:seg', offset: 172, content: '', id: KR3ea020_jc_000-d2.p2s33}
   - {type: punctuation, offset: 181, content: ，, id: KR3ea020_jc_000-bkkpn33}
@@ -82,7 +80,6 @@ markers:
   - {type: 'tls:seg', offset: 211, content: '', id: KR3ea020_jc_000-d2.p2s38}
   - {type: punctuation, offset: 217, content: ，, id: KR3ea020_jc_000-bkkpn38}
   - {type: 'tls:seg', offset: 217, content: '', id: KR3ea020_jc_000-d2.p2s39}
-  - {type: substitution, offset: 219, original: 齋, replacement: 齊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3904}}
   - {type: punctuation, offset: 223, content: 。, id: KR3ea020_jc_000-bkkpn39}
   - {type: 'tls:seg', offset: 223, content: '', id: KR3ea020_jc_000-d2.p2s40}
   - {type: punctuation, offset: 224, content: 《, id: KR3ea020_jc_000-bkkpn40}
@@ -115,11 +112,8 @@ markers:
   - {type: 'tls:seg', offset: 284, content: '', id: KR3ea020_jc_000-d2.p2s52}
   - {type: punctuation, offset: 290, content: ，, id: KR3ea020_jc_000-bkkpn56}
   - {type: 'tls:seg', offset: 290, content: '', id: KR3ea020_jc_000-d2.p2s53}
-  - {type: substitution, offset: 294, original: 彷, replacement: 倣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3916}}
-  - {type: substitution, offset: 295, original: 彿, replacement: 佛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0353}}
   - {type: punctuation, offset: 296, content: ，, id: KR3ea020_jc_000-bkkpn57}
   - {type: 'tls:seg', offset: 296, content: '', id: KR3ea020_jc_000-d2.p2s54}
-  - {type: substitution, offset: 296, original: 澹, replacement: 淡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3894}}
   - {type: punctuation, offset: 300, content: ，, id: KR3ea020_jc_000-bkkpn58}
   - {type: 'tls:seg', offset: 300, content: '', id: KR3ea020_jc_000-d2.p2s55}
   - {type: punctuation, offset: 304, content: ，, id: KR3ea020_jc_000-bkkpn59}
@@ -193,7 +187,6 @@ markers:
   - {type: 'tls:seg', offset: 477, content: '', id: KR3ea020_jc_000-d3.p2s13}
   - {type: punctuation, offset: 483, content: ，, id: KR3ea020_jc_000-bkkpn92}
   - {type: 'tls:seg', offset: 483, content: '', id: KR3ea020_jc_000-d3.p2s14}
-  - {type: substitution, offset: 485, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4452}}
   - {type: punctuation, offset: 490, content: 。, id: KR3ea020_jc_000-bkkpn93}
   - {type: 'tls:seg', offset: 490, content: '', id: KR3ea020_jc_000-d3.p2s15}
   - {type: punctuation, offset: 496, content: ，, id: KR3ea020_jc_000-bkkpn94}
@@ -248,4 +241,4 @@ markers:
   - {type: xml-element, offset: 630, content: '', id: KR3ea020_jc_000-d3p4_end, name: p, role: close, attrs: {'xml:id': KR3ea020_jc_000-d3p4}}
   body: []
   back: []
-hash: sha256:b3f9209eed5c5af971622152f4e6879126af3549ce3e90b93ddc6ea33cc16b14
+hash: sha256:09846abe61c16c80cd251919767be4de57f081fc671b9d30157c1eaf2f59df3e
