@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ea020_003.yaml, hash: 'sha256:6b0bbc1a51ebaad8dde97dc74ea0babb5041a8fd7df5e093d408599f94600294'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ea020_000.markers.yaml, hash: 'sha256:f2d38a6887124c27f3bfa307814f72ffd85c1097ed67300d259a3cdcb232a913'}
-  - {seq: 1, role: markers, filename: assets/KR3ea020_001.markers.yaml, hash: 'sha256:0444b049921876b879545c02dc1d45d5860fccaaaf5364fc5500f62c23e30541'}
-  - {seq: 3, role: markers, filename: assets/KR3ea020_003.markers.yaml, hash: 'sha256:ac72363f364ce2ae1242b0972f6a781e376064d6164cd4991221b01b94a4c104'}
+  - {seq: 1, role: markers, filename: assets/KR3ea020_001.markers.yaml, hash: 'sha256:af6bd716181f58dc128dd4d0984d2208989620a28e1a098cd83092b3f0e0f90a'}
+  - {seq: 3, role: markers, filename: assets/KR3ea020_003.markers.yaml, hash: 'sha256:57ab5c965d9a600aaf938b545c9ecd1f76d122f526df74b0f8b661c4dd9af99a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -725,7 +725,7 @@ table_of_contents:
   label: 解精微論
   type: section
   level: 2
-hash: sha256:84370fe70d876cf4ae3820f9554c1f1aa215fe7d4da02745fc443ffd2415226c
+hash: sha256:d053cec55e1096b3a0983f355697b6701bcd19cdf4c7d8b9bf35579cec78183b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
